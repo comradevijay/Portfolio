@@ -16,6 +16,12 @@ This repository contains my personal portfolio website showcasing my skills, pro
 
 ---
 
+## 🌍 Live Demo
+
+👉 [https://vijay-kumar-portfolio.netlify.app/](https://vijay-kumar-portfolio.netlify.app/)
+
+---
+
 ## 🛠 Tech Stack
 
 * HTML5
