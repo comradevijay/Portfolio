@@ -77,8 +77,7 @@ This portfolio is built to:
 If you'd like to connect or collaborate, feel free to reach out.
 
 * GitHub: [https://github.com/comradevijay](https://github.com/comradevijay)
-* Email: [your-email@example.com](mailto:your-email@example.com)
-
+* Email: [vijayk93478@gmail.com](mailto:vijayk93478@gmail.com)
 ---
 
 ## ⭐ Support
